@@ -1,4 +1,4 @@
-word = 'ThisIsWayTooLongToBeAWord'
+word = 'Engineer'
 wordLen = len(word)
 
 width = 0.05 # 
